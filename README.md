@@ -1,5 +1,6 @@
 # mir9-lua
 ================<br>
+运行 [http://zym.cnblogs.com](mir9-lua) 略费周折，甚至还费劲巴拉安装了vs2013,vs2015。为避免别人走弯路，特记录下来。并提供一份可用的拷贝。<br>
 获取代码<br>
 git clone https://github.com/zym2014/mir9-lua<br>
 git clone https://github.com/zxf/quick-cocos2d-libpomelo<br>
